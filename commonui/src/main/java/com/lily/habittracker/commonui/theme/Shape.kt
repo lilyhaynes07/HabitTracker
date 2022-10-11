@@ -1,4 +1,4 @@
-package com.lily.habittracker.ui.theme
+package com.lily.habittracker.commonui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
